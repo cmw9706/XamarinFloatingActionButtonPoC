@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentView
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:controls="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
+    x:Class="FABPoc.FloatActionButton">
+    <ContentView.Content>
+        <Frame BackgroundColor="#291972" CornerRadius="8">
+            <controls:SvgCachedImage Source="resource://FABPoc.Vector.svg" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"></controls:SvgCachedImage>
+        </Frame>
+    </ContentView.Content>
+</ContentView>
+

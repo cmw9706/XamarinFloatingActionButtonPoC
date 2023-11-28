@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:FABPoc;assembly=FABPoc"
+             x:Class="FABPoc.MainPage">
+    <AbsoluteLayout BackgroundColor="Red">
+        <controls:FloatActionButton
+            AbsoluteLayout.LayoutBounds=".96,.97,48,48"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            BackgroundColor="Transparent"
+            HeightRequest="48"
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="Start"
+            WidthRequest="48" />
+    </AbsoluteLayout>
+</ContentPage>
+

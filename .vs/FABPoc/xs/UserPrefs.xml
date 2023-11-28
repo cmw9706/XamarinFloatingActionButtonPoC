@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1AA05E17-5F11-40EC-9267-0AD26A015D07}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FABPoc.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FABPoc.Android PreferredExecutionTarget="Android.Pixel_3a_API_32" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.1.2" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_32" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FABPoc/FABPoc/FloatActionButton.cs">
+    <Files>
+      <File FileName="FABPoc/FABPoc/MainPage.xaml.cs" />
+      <File FileName="FABPoc/FABPoc/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="FABPoc/FABPoc/FloatActionButton.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FABPoc" expanded="True">
+            <Node name="FABPoc" expanded="True">
+              <Node name="FloatActionButton.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

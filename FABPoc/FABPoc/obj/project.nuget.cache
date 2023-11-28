@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "nF9p1Qf39dKtaVLIsX9m5gqKp5LZrWgWYbtYmmOwYyRgX1w+B6F5dkrVxGC1cpdqVrYk6r6dqejzCvWgUolKDQ==",
+  "success": true,
+  "projectFilePath": "/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/FABPoc.csproj",
+  "expectedPackageFiles": [
+    "/Users/connor.williams/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/skiasharp/2.88.6/skiasharp.2.88.6.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/skiasharp.nativeassets.macos/2.88.6/skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/skiasharp.nativeassets.win32/2.88.6/skiasharp.nativeassets.win32.2.88.6.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.3/system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/xamarin.ffimageloading/2.4.11.982/xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/xamarin.ffimageloading.forms/2.4.11.982/xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/xamarin.ffimageloading.svg/2.4.11.982/xamarin.ffimageloading.svg.2.4.11.982.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/xamarin.ffimageloading.svg.forms/2.4.11.982/xamarin.ffimageloading.svg.forms.2.4.11.982.nupkg.sha512",
+    "/Users/connor.williams/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

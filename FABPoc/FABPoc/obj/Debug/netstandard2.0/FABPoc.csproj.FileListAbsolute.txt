@@ -1,0 +1,16 @@
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/bin/Debug/netstandard2.0/FABPoc.deps.json
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/bin/Debug/netstandard2.0/FABPoc.dll
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/bin/Debug/netstandard2.0/ref/FABPoc.dll
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/bin/Debug/netstandard2.0/FABPoc.pdb
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/FABPoc.csproj.AssemblyReference.cache
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/FABPoc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/FloatActionButton.xaml.g.cs
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/FABPoc.AssemblyInfoInputs.cache
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/FABPoc.AssemblyInfo.cs
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/FABPoc.csproj.CoreCompileInputs.cache
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/FABPoc.dll
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/refint/FABPoc.dll
+/Users/connor.williams/Projects/FABPoc/FABPoc/FABPoc/obj/Debug/netstandard2.0/FABPoc.pdb
